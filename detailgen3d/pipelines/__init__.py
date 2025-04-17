@@ -1,0 +1,1 @@
+from .pipeline_detailgen3d import DetailGen3DPipeline
