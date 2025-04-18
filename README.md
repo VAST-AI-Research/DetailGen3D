@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Project Page](https://img.shields.io/badge/🏠-Project%20Page-blue.svg)](https://github.com/VAST-AI-Research/DetailGen3D)
+[![Project Page](https://img.shields.io/badge/🏠-Project%20Page-blue.svg)](https://detailgen3d.github.io/DetailGen3D/)
 [![Paper](https://img.shields.io/badge/📑-Paper-green.svg)](https://arxiv.org/abs/2411.16820)
 [![Model](https://img.shields.io/badge/🤗-Model-yellow.svg)](https://huggingface.co/VAST-AI/DetailGen3D)
 [![Online Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/VAST-AI/DetailGen3D)
