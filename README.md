@@ -50,7 +50,7 @@ Upload a mesh with less detail. We recommend using these 3d generation tools:
 
 ### Step 2: Generate geometry details:
 ```bash
-python scripts/inference_holopart \
+python scripts/inference_detailgen3d.py \
   --mesh_input assets/model/cb7e6c4a-b4dd-483c-9789-3d4887ee7434.glb \
   --image_input assets/image/cb7e6c4a-b4dd-483c-9789-3d4887ee7434.png
 ```
@@ -60,7 +60,7 @@ The required model weights will be automatically downloaded:
 
 ## ⭐ Acknowledgements
 
-We would like to thank the following open-source projects and research works that made HoloPart possible:
+We would like to thank the following open-source projects and research works that made DetailGen3D possible:
 
 - [🤗 Diffusers](https://github.com/huggingface/diffusers) for their excellent diffusion model framework
 - [HunyuanDiT](https://github.com/Tencent/HunyuanDiT) for DiT
